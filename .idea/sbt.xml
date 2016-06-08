@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/applicative" />
+            <option value="$PROJECT_DIR$/applicative/project" />
+            <option value="$PROJECT_DIR$/free" />
+            <option value="$PROJECT_DIR$/free/project" />
+            <option value="$PROJECT_DIR$/functor" />
+            <option value="$PROJECT_DIR$/functor/project" />
+            <option value="$PROJECT_DIR$/monad" />
+            <option value="$PROJECT_DIR$/monad/project" />
+            <option value="$PROJECT_DIR$/monadTransformer" />
+            <option value="$PROJECT_DIR$/monadTransformer/project" />
+            <option value="$PROJECT_DIR$/monoid" />
+            <option value="$PROJECT_DIR$/monoid/project" />
+            <option value="$PROJECT_DIR$/probability" />
+            <option value="$PROJECT_DIR$/probability/project" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/pygmyHadoop" />
+            <option value="$PROJECT_DIR$/pygmyHadoop/project" />
+            <option value="$PROJECT_DIR$/validation" />
+            <option value="$PROJECT_DIR$/validation/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.9" />
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/applicative" />
+            <option value="$PROJECT_DIR$/applicative/project" />
+            <option value="$PROJECT_DIR$/free" />
+            <option value="$PROJECT_DIR$/free/project" />
+            <option value="$PROJECT_DIR$/functor" />
+            <option value="$PROJECT_DIR$/functor/project" />
+            <option value="$PROJECT_DIR$/monad" />
+            <option value="$PROJECT_DIR$/monad/project" />
+            <option value="$PROJECT_DIR$/monadTransformer" />
+            <option value="$PROJECT_DIR$/monadTransformer/project" />
+            <option value="$PROJECT_DIR$/monoid" />
+            <option value="$PROJECT_DIR$/monoid/project" />
+            <option value="$PROJECT_DIR$/probability" />
+            <option value="$PROJECT_DIR$/probability/project" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/pygmyHadoop" />
+            <option value="$PROJECT_DIR$/pygmyHadoop/project" />
+            <option value="$PROJECT_DIR$/validation" />
+            <option value="$PROJECT_DIR$/validation/project" />
+          </set>
+        </option>
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

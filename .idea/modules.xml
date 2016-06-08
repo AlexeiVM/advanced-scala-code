@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/advanced-scala-code.iml" filepath="$PROJECT_DIR$/.idea/modules/advanced-scala-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/advanced-scala-code-build.iml" filepath="$PROJECT_DIR$/.idea/modules/advanced-scala-code-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applicative.iml" filepath="$PROJECT_DIR$/.idea/modules/applicative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/applicative-build.iml" filepath="$PROJECT_DIR$/.idea/modules/applicative-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/free.iml" filepath="$PROJECT_DIR$/.idea/modules/free.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/free-build.iml" filepath="$PROJECT_DIR$/.idea/modules/free-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/functor.iml" filepath="$PROJECT_DIR$/.idea/modules/functor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/functor-build.iml" filepath="$PROJECT_DIR$/.idea/modules/functor-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monad.iml" filepath="$PROJECT_DIR$/.idea/modules/monad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monad-build.iml" filepath="$PROJECT_DIR$/.idea/modules/monad-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monadTransformer.iml" filepath="$PROJECT_DIR$/.idea/modules/monadTransformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monadTransformer-build.iml" filepath="$PROJECT_DIR$/.idea/modules/monadTransformer-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monoid.iml" filepath="$PROJECT_DIR$/.idea/modules/monoid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/monoid-build.iml" filepath="$PROJECT_DIR$/.idea/modules/monoid-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/probability.iml" filepath="$PROJECT_DIR$/.idea/modules/probability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/probability-build.iml" filepath="$PROJECT_DIR$/.idea/modules/probability-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pygmyHadoop.iml" filepath="$PROJECT_DIR$/.idea/modules/pygmyHadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pygmyHadoop-build.iml" filepath="$PROJECT_DIR$/.idea/modules/pygmyHadoop-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validation.iml" filepath="$PROJECT_DIR$/.idea/modules/validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/validation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/validation-build.iml" />
+    </modules>
+  </component>
+</project>
